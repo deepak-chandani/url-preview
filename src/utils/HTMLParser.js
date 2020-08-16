@@ -1,4 +1,3 @@
-
 const placeholderImageUrl = 'https://via.placeholder.com/200';
 
 class HTMLParser {
