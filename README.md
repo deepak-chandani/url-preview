@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Overview
-- **Url Preview** project is created as fun little exercise project.
+- **Url Preview** project is created as fun little exercise project. checkout [demo](http://deep-link-preview.surge.sh) 
 - user can type something in input eg "Check out http://airbnb.com. It's awesome!" & it will show the preview of the url inside the text.
 - currently it is using "open graph" (`og:title`, `og:image`, `og:description`) `<meta>` tags (inside html of url) to collect preview information. 
 
